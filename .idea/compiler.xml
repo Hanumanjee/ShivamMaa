@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ideaProjects" />
         <module name="cretest" />
+        <module name="ShivamMaa" />
       </profile>
     </annotationProcessing>
   </component>
