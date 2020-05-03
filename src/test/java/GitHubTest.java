@@ -14,5 +14,7 @@ public class GitHubTest {
 
     public static void feature(){
         System.out.println("testing feature branch");
+        System.out.println("this is done");
+
     }
 }
