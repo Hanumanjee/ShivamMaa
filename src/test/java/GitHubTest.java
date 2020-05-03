@@ -4,10 +4,14 @@ public class GitHubTest {
         print();
 
         //commit
+        bugfix();
 
     }
     public static void print(){
         System.out.println("This is my first method");
         System.out.println("test");
+    }
+    public static void bugfix(){
+        System.out.println("bugfix for master");
     }
 }
