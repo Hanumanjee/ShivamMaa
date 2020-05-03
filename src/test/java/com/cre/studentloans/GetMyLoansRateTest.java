@@ -26,7 +26,7 @@ public class GetMyLoansRateTest {
         _getMyLoansRatePage.launchURL().navigateToStudentLoanOptionsPage().fillEducationForm().fillFinancialForm().fillProfileForm();
 
     }
-
+//
     @AfterTest
     public void tearDown(){
         if(this.driver !=null){
