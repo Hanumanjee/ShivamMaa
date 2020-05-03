@@ -4,17 +4,10 @@ public class GitHubTest {
         print();
 
         //commit
-        feature();
 
     }
     public static void print(){
         System.out.println("This is my first method");
         System.out.println("test");
-    }
-
-    public static void feature(){
-        System.out.println("testing feature branch");
-        System.out.println("this is done");
-
     }
 }
